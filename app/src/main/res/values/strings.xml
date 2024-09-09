@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kuis</string>
+    <string name="todo">Todo</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomor_induk_mahasiswa">Nomor Induk Mahasiswa</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="sampan">Sampan</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+</resources>
